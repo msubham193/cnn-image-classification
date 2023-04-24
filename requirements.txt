@@ -1,8 +1,8 @@
-Flask==2.1.0
-numpy==1.21.0
-opencv-python==4.5.3.56
-Flask-Cors==3.0.10
-Pillow==8.3.1
-tensorflow==2.6.0
-keras==2.6.0
+Flask
+numpy
+opencv-python
+Flask-Cors
+Pillow
+tensorflow
+keras
 gunicorn 
