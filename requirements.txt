@@ -3,6 +3,6 @@ Flask
 opencv-python
 Flask-Cors
 Pillow
-
+tensorflow
 keras
 gunicorn 
